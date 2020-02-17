@@ -23,11 +23,10 @@ Active | `1,436,267.06755014` | |
 * TODO: Add payment history
 
 ## Donations in Bitcoin
-BTC | DATE |
---|--|
-`0.077` | 2020-02-18 00:00 UTC |
+2020-02-18 00:00 UTC
 
-## Active Balance
-BTC | DATE |
---|--|
-`0.07` | 2020-02-18 00:00 UTC | 
+| | BTC | DETAIL |
+--|--|--|
+Received | `0.077` | |
+Used | `0.007` | | 
+Active | `0.07` | | 
