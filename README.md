@@ -3,7 +3,7 @@ We give our utmost thanks to the donors. This donation will be used for our futu
 
 ## Fund Manager
 AestheticSenpai
-- Telegram@AestheticSenpai
+- https://t.me/AestheticSenpai
 - https://twitter.com/AestheticSenpa1
 - https://github.com/aestheticsenpai
 
