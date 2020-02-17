@@ -13,14 +13,18 @@ Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas |
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
 
 ## Donations in SUGAR
-| | SUGAR | DETAIL | 
---|--|--| 
-Received | `2,165,561.00000000` | | 
-Used | `729293.93244986` | Android Wallet - `150k` <br> Web Wallet - `150k` <br> Android/Web Wallet Translation - `50k` <br> Some Dev Rewards - `380k` | 
-Active | `1,436,267.06755014` | | 
+| DETAIL | AMOUNT(SUGAR) | 
+--|--|
+Received | `2,165,561.00000000` | 
+Android Wallet | `150k` | 
+Web Wallet | `150k` | 
+Android/Web Wallet Translation | `50k` | 
+Some Dev Rewards | `380k` | 
+Used Total | `729293.93244986` | 
+Active Balance| `1,436,267.06755014` | 
 
 ## Donations in Bitcoin
-| | BTC | DETAIL |
+| | AMOUNT(BTC) | DETAIL |
 --|--|--|
 Received | `0.077` | |
 Used | `0.007` | Altmarkets Listing Fee - `0.007` | 
