@@ -1,4 +1,4 @@
-# [Sugarchain](https://github.com/sugarchain-project) Donations
+# Sugarchain Donations
 This is a sum of all donations and those that have donated (That we know of)
 
 ## Donators
@@ -12,7 +12,7 @@ Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas |
 Volodymyr Biloshytskyi | | https://volbil.com/ | 
 中本蠢 | | http://sugar.52hash.com/ | 
 
-## Sugarchain
+## Donations in SUGAR
 SUGAR | DATE |
 --|--|
 `2,165,561` | 2020-02-18 00:00 UTC | 
@@ -22,7 +22,7 @@ SUGAR | DATE |
 --|--|
 `1,436,267.06755014` | 2020-02-18 00:00 UTC |
 
-## Bitcoin
+## Donations in Bitcoin
 BTC | DATE |
 --|--|
 0.077 | 2020-02-18 00:00 UTC |
