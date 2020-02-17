@@ -1,8 +1,8 @@
 # Donations for Sugarchain Development Fund
 We give our utmost thanks to the donors. This donation will be used for our future development.
 
-## Donators
-NAME | AMOUNT | HONOR | 
+## Honor
+NAME | AMOUNT | KUDO | 
 --|--|--| 
 唐伯虎 | `0.07 BTC` | 
 楽天 | | 
