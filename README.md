@@ -18,9 +18,8 @@ Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ |
 | | SUGAR | DETAIL | 
 --|--|--| 
 Received | `2,165,561.00000000` | | 
-Used | `729293.93244986` |  | 
+Used | `729293.93244986` | Android Wallet - `150k` <br> Web Wallet - `150k` <br> Android/Web Wallet Translation - `50k` <br> Some Dev Rewards - `380k` | 
 Active | `1,436,267.06755014` | | 
-* TODO: Add payment history
 
 ## Donations in Bitcoin
 2020-02-18 00:00 UTC
