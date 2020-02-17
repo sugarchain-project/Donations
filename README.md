@@ -25,9 +25,9 @@ SUGAR | DATE |
 ## Donations in Bitcoin
 BTC | DATE |
 --|--|
-0.077 | 2020-02-18 00:00 UTC |
+`0.077` | 2020-02-18 00:00 UTC |
 
 ## Active Balance
 BTC | DATE |
 --|--|
-0.07 BTC | 2020-02-18 00:00 UTC | 
+`0.07` | 2020-02-18 00:00 UTC | 
