@@ -14,7 +14,7 @@ Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ |
 
 ## Donations in SUGAR
 | DETAIL | AMOUNT(SUGAR) | 
---|--|
+--|--| 
 Received | `2,165,561.00000000` **FIXME** | 
 Android Wallet | `150k` | 
 Web Wallet | `150k` | 
@@ -24,8 +24,8 @@ Used Total | `729k` |
 Active Balance| `1436267.06755014` | 
 
 ## Donations in Bitcoin
-| | AMOUNT(BTC) | DETAIL |
---|--|--|
-Received | `0.077` | |
+| | AMOUNT(BTC) | DETAIL | 
+--|--|--| 
+Received | `0.077` | | 
 Used | `0.007` | Altmarkets Listing Fee - `0.007` | 
 Active | `0.07` | | 
