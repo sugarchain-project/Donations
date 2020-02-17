@@ -2,13 +2,15 @@
 This is a sum of all donations and those that have donated (That we know of)
 
 ## Donators
-- 唐伯虎
-- Rakuten
-- sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta
-- sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas
-- happysensor: `http://happysensor.xyz/`
-- volbil: https://volbil.com/
-- 52hash: `http://sugar.52hash.com/`
+NAME | AMOUNT | HONOR | 
+--|--|--| 
+唐伯虎 | | 
+Rakuten | | 
+Anonymous | | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
+Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
+happysensor | | http://happysensor.xyz/ | 
+Volodymyr Biloshytskyi | | https://volbil.com/ | 
+52hash | | http://sugar.52hash.com/ | 
 
 ## Sugarchain
 SUGAR | DATE |
