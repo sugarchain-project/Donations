@@ -1,5 +1,5 @@
 # Donations for Sugarchain Development Fund
-This is a sum of all donations and those that have donated (That we know of)
+We give our utmost thanks to the donors. This donation will be used for our future development.
 
 ## Donators
 NAME | AMOUNT | HONOR | 
