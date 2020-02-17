@@ -5,7 +5,7 @@ This is a sum of all donations and those that have donated (That we know of)
 NAME | AMOUNT | HONOR | 
 --|--|--| 
 唐伯虎 | | 
-Rakuten | | 
+楽天 | | 
 Anonymous | | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
 Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
 happysensor | | http://happysensor.xyz/ | 
