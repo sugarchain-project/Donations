@@ -1,6 +1,12 @@
 # Donations for Sugarchain Development Fund
 We give our utmost thanks to the donors. This donation will be used for our future development.
 
+## Fund Manager
+AestheticSenpai
+- Telegram@AestheticSenpai
+- https://twitter.com/AestheticSenpa1
+- https://github.com/aestheticsenpai
+
 ## Honor
 NAME | AMOUNT | KUDO | 
 --|--|--| 
