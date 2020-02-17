@@ -34,4 +34,5 @@ DETAIL | AMOUNT(BTC) | TXID |
 --|--|--| 
 Received | `0.077` | **FIXME** | 
 Altmarkets Listing Fee | `0.007` | **FIXME** | 
+Google Play Store Registration Fee for 2 years | **FIXME** | **FIXME** | 
 Active Balance | `0.07` | **FIXME** | 
