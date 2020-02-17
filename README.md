@@ -15,7 +15,7 @@ Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ |
 ## Donations in SUGAR
 | DETAIL | AMOUNT(SUGAR) | 
 --|--|
-Received | `2165k` | 
+Received | `2,165,561.00000000` **FIXME** | 
 Android Wallet | `150k` | 
 Web Wallet | `150k` | 
 Android/Web Wallet Translation | `50k` | 
