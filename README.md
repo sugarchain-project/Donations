@@ -13,7 +13,7 @@ Anonymous | **FIXME** | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas |
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
 
 ## Donations in SUGAR
-| DETAIL | AMOUNT(SUGAR) | TXID | 
+DETAIL | AMOUNT(SUGAR) | TXID | 
 --|--|--| 
 Received | `2165561.00000000 (2.16m)` **FIXME** | **FIXME** | 
 Android Wallet | `150k` | **FIXME** | 
@@ -24,8 +24,8 @@ Used Total | `729k` | **FIXME** |
 Active Balance| `1436267.06755014 (1.43m)` | **FIXME** | 
 
 ## Donations in Bitcoin
-| | AMOUNT(BTC) | DETAIL | 
+DETAIL | AMOUNT(BTC) | TXID | 
 --|--|--| 
-Received | `0.077` | | 
-Used | `0.007` | Altmarkets Listing Fee - `0.007` | 
-Active | `0.07` | | 
+Received | `0.077` | **FIXME** | 
+Altmarkets Listing Fee | `0.007` | **FIXME** | 
+Active Balance | `0.07` | **FIXME** | 
