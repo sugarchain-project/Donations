@@ -13,11 +13,13 @@ Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas |
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
 
 ## Donations in SUGAR
-| | SUGAR | DATE | 
+2020-02-18 00:00 UTC
+
+| | SUGAR | DETAIL | 
 --|--|--| 
 Received | `2,165,561.00000000` | | 
 Used | `729293.93244986` |  | 
-Active | `1,436,267.06755014` | 2020-02-18 00:00 UTC | 
+Active | `1,436,267.06755014` | | 
 * TODO: Add payment history
 
 ## Donations in Bitcoin
