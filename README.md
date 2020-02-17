@@ -8,7 +8,7 @@ NAME | AMOUNT | HONOR |
 楽天 | | 
 Anonymous | | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
 Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
-happysensor | | http://happysensor.xyz/ | 
+김수열 | | http://happysensor.xyz/ | 
 Volodymyr Biloshytskyi | | https://volbil.com/ | 
 52hash | | http://sugar.52hash.com/ | 
 
