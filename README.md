@@ -13,14 +13,12 @@ Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ |
 中本蠢 | | http://sugar.52hash.com/ | 
 
 ## Donations in SUGAR
-SUGAR | DATE |
---|--|
-`2,165,561` | 2020-02-18 00:00 UTC | 
-
-## Active Balance
-SUGAR | DATE |
---|--|
-`1,436,267.06755014` | 2020-02-18 00:00 UTC |
+| | SUGAR | DATE | 
+--|--|--| 
+Received | `2,165,561.00000000` | | 
+Used | `729293.93244986` |  | 
+Active | `1,436,267.06755014` | 2020-02-18 00:00 UTC | 
+* TODO: Add payment history
 
 ## Donations in Bitcoin
 BTC | DATE |
