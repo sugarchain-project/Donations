@@ -28,5 +28,5 @@ Active | `1,436,267.06755014` | |
 | | BTC | DETAIL |
 --|--|--|
 Received | `0.077` | |
-Used | `0.007` | | 
+Used | `0.007` | Altmarkets Listing Fee - `0.007` | 
 Active | `0.07` | | 
