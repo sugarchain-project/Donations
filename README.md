@@ -4,12 +4,12 @@ This is a sum of all donations and those that have donated (That we know of)
 ## Donators
 NAME | AMOUNT | HONOR | 
 --|--|--| 
-唐伯虎 | | 
+唐伯虎 | `0.07 BTC` | 
 楽天 | | 
 Anonymous | | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
 Anonymous | | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
 김수열 | | http://happysensor.xyz/ | 
-Volodymyr Biloshytskyi | | https://volbil.com/ | 
+Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
 中本蠢 | | http://sugar.52hash.com/ | 
 
 ## Donations in SUGAR
