@@ -22,8 +22,8 @@ Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ |
 DETAIL | AMOUNT(SUGAR) | TXID | 
 --|--|--| 
 Received | `2165561.00000000 (2.16m)` **FIXME** | **FIXME** | 
-Android Wallet | `150k` | **FIXME** | 
-Web Wallet | `150k` | **FIXME** | 
+Android Wallet | `150k` | 7067482dd8342aad045c27e37bdd715fdd72c564c2995a7b81fdca5db7a8f518 | 
+Web Wallet | `150k` | 4e472a232cb99b619cc70f518391f66a171bf84cfa8504e840d0b3655651b0d5 | 
 Android/Web Wallet Translation | `50k` | **FIXME** | 
 Unknown **FIXME** | `380k` **FIXME** | **FIXME** | 
 Used Total | `729k` | **FIXME** | 
