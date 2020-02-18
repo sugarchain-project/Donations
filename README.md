@@ -13,7 +13,7 @@ NAME | AMOUNT | KUDO |
 唐伯虎 | `0.07 BTC` | 
 楽天 | **FIXME** | 
 Anonymous | **FIXME** | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
-Anonymous | **FIXME** | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
+Anonymous | 300K | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
 김수열 | **FIXME** | http://happysensor.xyz/ | 
 中本蠢 | **FIXME** | http://sugar.52hash.com/ | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
