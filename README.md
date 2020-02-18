@@ -32,7 +32,7 @@ Active Balance| `1436267.06755014 (1.43m)` | **FIXME** |
 ## Donations in Bitcoin
 DETAIL | AMOUNT(BTC) | TXID | 
 --|--|--| 
-Received | `0.077` | **FIXME** | 
-Altmarkets Listing Fee | `0.007` | **FIXME** | 
+Received | `0.077` | 05d0bb29ed742303e798455b9c9418b1ecfc1d986db27842970a7acf79d6cee9 | 
+Altmarkets Listing Fee | `0.007` |  | 
 Google Play Store Registration Fee for 2 years | **FIXME** | **FIXME** | 
-Active Balance | `0.07` | **FIXME** | 
+Active Balance | `0.07` | 05d0bb29ed742303e798455b9c9418b1ecfc1d986db27842970a7acf79d6cee9 | 
