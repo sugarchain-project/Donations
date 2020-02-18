@@ -15,7 +15,7 @@ NAME | AMOUNT | KUDO |
 Anonymous | **FIXME** | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | 
 Anonymous | 300K | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | 
 김수열 | **FIXME** | http://happysensor.xyz/ | 
-中本蠢 | **FIXME** | http://sugar.52hash.com/ | 
+中本蠢 | 200K | http://sugar.52hash.com/ | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | 
 
 ## Donations in SUGAR
