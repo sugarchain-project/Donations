@@ -17,6 +17,7 @@ Anonymous | 300K | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenp
 김수열 | **FIXME** | http://happysensor.xyz/ | AestheticSenpai | 
 中本蠢 | 200K | http://sugar.52hash.com/ | AestheticSenpai | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai |  
+AestheticSenpai | `30 USD` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 
 ## Donations in SUGAR
 DETAIL | AMOUNT(SUGAR) | TXID | RECIPIENT | 
