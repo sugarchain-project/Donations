@@ -13,9 +13,9 @@ NAME | AMOUNT | KUDO | RECIPIENT |
 唐伯虎 | `0.07 BTC` | | AestheticSenpai | 
 楽天 | **FIXME** | | AestheticSenpai | 
 Anonymous | **FIXME** | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | AestheticSenpai | 
-Anonymous | 300K | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenpai | 
+Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenpai | 
 김수열 | **FIXME** | http://happysensor.xyz/ | AestheticSenpai | 
-中本蠢 | 200K | http://sugar.52hash.com/ | AestheticSenpai | 
+中本蠢 | `200k SUGAR` | http://sugar.52hash.com/ | AestheticSenpai | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai |  
 AestheticSenpai | `30 USD` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 
