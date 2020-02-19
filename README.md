@@ -20,11 +20,11 @@ NAME | AMOUNT | KUDO | RECIPIENT |
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai |  
 AestheticSenpai | `0.003 BTC` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 楽天 | **FIXME** | | AestheticSenpai | 
+AestheticSenpai | `1148864 SUGAR (1.14m)` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenpai | 
 中本蠢 | `200k SUGAR` | http://sugar.52hash.com/ | AestheticSenpai | 
 Anonymous | `100k SUGAR` | sugar1qaltnjyuezz597z0lr5dlmna8wug9vv04q95zta | AestheticSenpai | 
 김수열 | **FIXME** | http://happysensor.xyz/ | AestheticSenpai | 
-AestheticSenpai | `1148864 SUGAR (1.14m)` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 
 ## Donations in SUGAR
 DETAIL | AMOUNT(SUGAR) | TXID | INPUT | RECIPIENT | 
