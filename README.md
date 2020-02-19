@@ -18,6 +18,7 @@ Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | Aesth
 中本蠢 | `200k SUGAR` | http://sugar.52hash.com/ | AestheticSenpai | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai |  
 AestheticSenpai | `0.003 BTC` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
+AestheticSenpai | `1148864 SUGAR (1.14m)` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 
 ## Donations in SUGAR
 DETAIL | AMOUNT(SUGAR) | TXID | INPUT | RECIPIENT | 
