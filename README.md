@@ -17,7 +17,7 @@ Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | Aesth
 김수열 | **FIXME** | http://happysensor.xyz/ | AestheticSenpai | 
 中本蠢 | `200k SUGAR` | http://sugar.52hash.com/ | AestheticSenpai | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai |  
-AestheticSenpai | `30 USD` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
+AestheticSenpai | `0.003 BTC` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 
 ## Donations in SUGAR
 DETAIL | AMOUNT(SUGAR) | TXID | RECIPIENT | 
@@ -33,7 +33,9 @@ Active Balance| `1436267.06755014 (1.43m)` | **FIXME** | AestheticSenpai |
 ## Donations in Bitcoin
 DETAIL | AMOUNT(BTC) | TXID | RECIPIENT | 
 --|--|--|--| 
-Received | `0.077` | 05d0bb29ed742303e798455b9c9418b1ecfc1d986db27842970a7acf79d6cee9 | AestheticSenpai | 
-Altmarkets Listing Fee | `0.007` | **FIXME** | Wheeler(Altmarkets Owner) | 
+Received | `0.07` | 05d0bb29ed742303e798455b9c9418b1ecfc1d986db27842970a7acf79d6cee9 | AestheticSenpai | 
+Received | `0.007` | **FIXME** | AestheticSenpai | 
+Received | `0.003` | **FIXME** | AestheticSenpai | 
+Altmarkets Listing Fee | `0.01` | **FIXME** | Wheeler(Altmarkets Owner) | 
 Google Play Store Registration Fee for 2 years | `0.00523` | 952ab744830f5a5ae015196cf3a0931e92ceecaf981e2c4a95287d39939043de | obasys | 
 Active Balance | `0.0647` | **FIXME** | AestheticSenpai | 
