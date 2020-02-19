@@ -33,6 +33,7 @@ Received | `2165561.00000000 (2.16m)` **FIXME** | **FIXME** | **FIXME** | Aesthe
 Android Wallet | `150k` | 7067482dd8342aad045c27e37bdd715fdd72c564c2995a7b81fdca5db7a8f518 | AestheticSenpai | obasys | 
 Web Wallet | `150k` | 4e472a232cb99b619cc70f518391f66a171bf84cfa8504e840d0b3655651b0d5 | AestheticSenpai | volbil | 
 Android/Web Wallet Translation | `50k` | **FIXME** | AestheticSenpai | decryp2kanon, obasys, AestheticSenpai, cryptozeny, kodok17, altbtm, rakuten, TeslaSesla, jamal-alnaeb, caltv93, Lupilu81 | 
+YIIMP for Sugarchain | `25k` | https://1explorer.sugarchain.org/tx/8e44d77e87962f866ea211c390c6d205fbe627cd1b2c2159da4d3a05d612099c | AestheticSenpai | barrystyle https://github.com/barrystyle/yiimp-sugarchain | 
 Unknown **FIXME** | `380k` **FIXME** | **FIXME** | AestheticSenpai | **FIXME** | 
 Used Total | `729k` | **FIXME** | AestheticSenpai | . | 
 Active Balance| `1436267.06755014 (1.43m)` | **FIXME** | AestheticSenpai | AestheticSenpai | 
