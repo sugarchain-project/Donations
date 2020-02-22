@@ -24,6 +24,7 @@ Rakutens | 230K | | AestheticSenpai |
 Baosheng | 100K | | AestheticSenpai |
 步入中年 | 50K | | AestheticSenpai |
 旧城以西 | 50K | | AestheticSenpai |
+濮寅 | 10K | | AestheticSenpai |
 🐰黑兔 | 10K | | AestheticSenpai |
 AestheticSenpai | `1148864 SUGAR (1.14m)` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenpai | 
