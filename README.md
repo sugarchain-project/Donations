@@ -19,7 +19,7 @@ NAME | AMOUNT | KUDO | RECIPIENT |
 唐伯虎 | `0.07 BTC` | | AestheticSenpai | 
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai | 
 AestheticSenpai | `0.003 BTC` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
-Rakutens | 90 USD(Through Doge) | | Volodymyr Biloshytskyi
+Rakutens | 43,350 doge | | Volodymyr Biloshytskyi
 Rakutens | 230K | | AestheticSenpai |
 Baosheng | 100K | | AestheticSenpai |
 步入中年 | 50K | | AestheticSenpai |
