@@ -20,7 +20,7 @@ NAME | AMOUNT | KUDO | RECIPIENT |
 Volodymyr Biloshytskyi | `0.007 BTC` | https://volbil.com/ | AestheticSenpai | 
 AestheticSenpai | `0.003 BTC` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 乐天 | 90 USD(Through Doge) | | Volodymyr Biloshytskyi
-乐天 | **FIXME** | | AestheticSenpai | 
+乐天 | 230K | | AestheticSenpai | 
 AestheticSenpai | `1148864 SUGAR (1.14m)` | https://twitter.com/AestheticSenpa1 | AestheticSenpai | 
 Anonymous | `300k SUGAR` | sugar1q37xl0pltatrkurflu8rgp569vd40znnlsaphas | AestheticSenpai | 
 中本蠢 | `200k SUGAR` | http://sugar.52hash.com/ | AestheticSenpai | 
