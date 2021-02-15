@@ -3,15 +3,15 @@ We give our utmost thanks to the donors. This donation will be used for our futu
 
 ## Fund Address
 - BTC
-  * [3P7pkQRJfQ2J1iaDmaAJiCjiETWozr9fin](https://blockstream.info/address/3P7pkQRJfQ2J1iaDmaAJiCjiETWozr9fin)
+  * [bc1qhmje05z23ywf8uuww6djl6emqmlwp487nev3m2](https://blockstream.info/address/bc1qhmje05z23ywf8uuww6djl6emqmlwp487nev3m2)
 - SUGAR
-  * [sugar1qg306xfw4895amwmspnm5j7qu3fev2dre53qlns](https://1explorer.sugarchain.org/address/sugar1qg306xfw4895amwmspnm5j7qu3fev2dre53qlns)
+  * [sugar1qsgldwdn2exuh7lt78jj9rjsgthan3ephntt35e](https://sugar.wtf/esplora/address/sugar1qsgldwdn2exuh7lt78jj9rjsgthan3ephntt35e)
 
 - Fund Manager
-  * AestheticSenpai
-    - https://t.me/AestheticSenpai
-    - https://twitter.com/AestheticSenpa1
-    - https://github.com/aestheticsenpai
+  * cryptozeny
+    - https://t.me/cryptozeny
+    - https://twitter.com/cryptozeny
+    - https://github.com/cryptozeny
 
 ## Honor
 NAME | AMOUNT | KUDO | RECIPIENT | 
